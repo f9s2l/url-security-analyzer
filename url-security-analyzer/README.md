@@ -22,11 +22,15 @@ A fast and lightweight security tool built with \*\*Python\*\* and \*\*Streamlit
 
 
 
-1\. \*\*Clone the repository:\*\*
+\## 🔗 Repository
 
-&#x20;  ```bash
+\[GitHub Repository](https://github.com/f9s2l/url-security-analyzer)
 
-&#x20;  git clone \[https://github.com/f9s2l/url-security-analyzer.git](https://github.com/f9s2l/url-security-analyzer.git)
 
-&#x20;  cd url-security-analyzer
+
+\## 🔗 LinkedIn
+
+
+
+\[LinkedIn Profile](https://www.linkedin.com/in/faisl-alkhaldi)
 
